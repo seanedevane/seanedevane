@@ -14,6 +14,7 @@
 ### :books: Learning projects
 
 * [Forum SPA](https://github.com/seanedevane/vue-school-forum-demo) built in Vue 3 plus Firebase; ongoing project to refactor to use Vite, Pinia, and a different DB solution.
+* [E-commmerce site](https://github.com/seanedevane/vuejs-forge-episode-2-ecommerce-project) project built as part of VueJS Forge 2, Nuxt 3 with Pinia and Vite, heavy emphasis on API integrations with a CMS (contentful) and backend DB (Deskree). WIP, making improvements since finishing the event.
 
 <br />
 
