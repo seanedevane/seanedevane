@@ -1,9 +1,9 @@
-### Hi there, I'm Sean, a web developer and front-end engineer 👋
+### Hi there 👋, I'm Sean, a Web Developer who is seeking roles in cybersecurity
 ---
 
 * :zzz: I've worked as a WordPress developer and designer, examples of my work in that field are in the portfolio links below.
 * :mountain_snow: I'm currently focusing on modern front-end frameworks, particularly [Vue.js](https://vuejs.org/).
-* :mortar_board: Learning Nuxt 3
+* :mortar_board: Diving into TryHackMe's learning materials ([profile](https://tryhackme.com/p/r0kkr). Learning Nuxt 3 + Tailwind to implement into currently deployed Gridsome sites 
 
 ### Portfolio
 
