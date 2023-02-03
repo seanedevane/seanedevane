@@ -2,8 +2,8 @@
 ---
 
 * :zzz: I've worked as a WordPress developer and designer, examples of my work in that field are in the portfolio links below.
-* :mountain_snow: I'm currently focusing on modern front-end frameworks, particularly [Vue.js](https://vuejs.org/).
-* :mortar_board: Diving into TryHackMe's learning materials ([profile](https://tryhackme.com/p/r0kkr)). Learning Nuxt 3 + Tailwind to implement into currently deployed Gridsome sites 
+* :mountain_snow: Development wise I'm currently focusing on modern front-end frameworks, particularly [Vue.js](https://vuejs.org/).
+* :mortar_board: Diving into TryHackMe's learning materials ([profile](https://tryhackme.com/p/r0kkr)) to build my security fundamentals. Learning Nuxt 3 + Tailwind to improve on my own internal projects.
 
 ### Portfolio
 
@@ -26,6 +26,9 @@
   <div id="badges">
     <a href="https://linkedin.com/in/seanedevane" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://infosec.exchange/@seanedevane" target="_blank">
+      <img src="https://img.shields.io/mastodon/follow/109350232208799151?domain=https%3A%2F%2Finfosec.exchange&style=social" />
     </a>
   </div>
 </div>
