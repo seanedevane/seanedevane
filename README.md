@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sean, a Web Developer who is seeking roles in cybersecurity
+### Hi there 👋, I'm Sean, a Web Developer shifting into offensive security and security research
 ---
 
 * :zzz: I've worked as a WordPress developer and designer, examples of my work in that field are in the portfolio links below.
@@ -15,6 +15,7 @@
 
 * [Forum SPA](https://github.com/seanedevane/vue-school-forum-demo) built in Vue 3 plus Firebase; ongoing project to refactor to use Vite, Pinia, and a different DB solution.
 * [E-commmerce site](https://github.com/seanedevane/vuejs-forge-episode-2-ecommerce-project) project built as part of VueJS Forge 2, Nuxt 3 with Pinia and Vite, heavy emphasis on API integrations with a CMS (contentful) and backend DB (Deskree). WIP, making improvements since finishing the event.
+* [Ansible playbook for Kali builds](https://github.com/seanedevane/kali-ctf-generalist)
 
 <br />
 
