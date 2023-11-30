@@ -28,9 +28,6 @@
     <a href="https://linkedin.com/in/seanedevane" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>
-    <a href="https://infosec.exchange/@seanedevane" target="_blank">
-      <img src="https://img.shields.io/mastodon/follow/109350232208799151?domain=https%3A%2F%2Finfosec.exchange&style=social" />
-    </a>
   </div>
 </div>
 
