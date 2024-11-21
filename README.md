@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sean, a Software Security Engineer with an interest in security research and web development
+### Hi there 👋, I'm Sean (he/him), a Software Security Engineer with an interest in security research and web development
 ---
 
 * :zzz: I've worked as a WordPress developer and designer, examples of my work in that field are in the portfolio links below.
